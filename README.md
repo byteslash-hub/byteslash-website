@@ -1,29 +1,37 @@
-# Next.js + Tailwind CSS Example
+## About the Project
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is the official website of the byteslash community. The tech used in this website are Next.js, Tailwind Css, TypeScript.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+Some information about the tech we have used:
 
-## Preview
+- Next.js is a production ready framework for React.
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+- Tailwind Css is a utility-first framework that makes adding styles very easy
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- TypeScript is a superset of JavaScript which is really useful in production-based apps.
 
-## Deploy your own
+<hr>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## Where can I contact byteslash?
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+You can contact us at this email address: hoomans.byteslash@gmail.com
 
-## How to use
+<hr>
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## What are some of the issues and where can I see them?
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+You can view all of the present issues at this link: https://github.com/byteslash-hub/byteslash-website/issues
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+<hr>
+
+## What can you contribute to this project?
+
+You can contribute to this project by adding additional features, fixing bugs, reporting a malpractice, enhancements to the code (if any)
+
+<hr>
+
+## How can I contribute to this project?
+
+Check `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` for detailed info and guidelines on how you can contribute to this project.
+
+**And.. do join the discord server for optimal coordination on this project. Here's the link:** https://discord.gg/Q4heHpxHvC
