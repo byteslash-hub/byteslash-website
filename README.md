@@ -1,6 +1,6 @@
-## About the Project
+## About the Website
 
-This is the official website of the byteslash community. The tech used in this website are Next.js, Tailwind Css, TypeScript.
+This is the official website of the ByteSlash Community. The tech used in this website are Next.js, Tailwind CSS, TypeScript.
 
 Some information about the tech we have used:
 
