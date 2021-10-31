@@ -5,7 +5,7 @@ import ByteText from '../components/ByteText'
 
 const Home: NextPage = () => {
   return (
-    <div className="bg-[#202631] h-screen p-10">
+    <div className="bg-grey h-screen p-10">
       <Head>
         <title>ByteSlash</title>
         <link rel="icon" href="https://res.cloudinary.com/codegowdacloud/image/upload/v1635327710/image-removebg-preview_jq9vzi.png" />
