@@ -8,7 +8,7 @@ module.exports = {
     colors: {
       white: "#fff",
       primary: "#ED5545",
-      grey: "#202631",
+      gray: "#202631",
     },
   },
   variants: {

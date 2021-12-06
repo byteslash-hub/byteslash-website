@@ -1,0 +1,31 @@
+{
+  "name": "Byteslash Hub",
+  "short_name": "Byteslash",
+  "theme_color": "#ED5545",
+  "background_color": "#202631",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/byteslash-logo64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/byteslash-logo128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/byteslash-logo192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/byteslash-logo512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

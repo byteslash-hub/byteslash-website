@@ -1,11 +1,11 @@
 import Head from "next/head";
 import type { NextPage } from "next";
-import Header from "../components/Header";
-import ByteText from "../components/ByteText";
+import Header from "../components/Header.component";
+import ByteText from "../components/ByteText.component";
 
 const Home: NextPage = () => {
   return (
-    <div className="bg-grey h-screen p-10">
+    <div className="bg-gray h-screen p-10">
       <Head>
         <title>ByteSlash</title>
         <link
