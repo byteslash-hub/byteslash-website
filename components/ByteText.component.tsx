@@ -6,7 +6,7 @@ function Text() {
       </h1>
       <h1 className="text-white w-full mt-10 text-xl xl:text-2xl mb-14 lg:mb-16 xl:mb-18 2xl:mb-20 ml-1 lg:ml-2">
         ByteSlash is a community for developers, designers and people who are
-        interested in tech. It is targetted for all sort of skill levels.
+        interested in tech. It is targeted for all sorts of skill levels.
       </h1>
       <a
         href="https://discord.gg/G6VemATM"
