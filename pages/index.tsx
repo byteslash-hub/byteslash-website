@@ -5,7 +5,7 @@ import ByteText from "../components/ByteText.component";
 
 const Home: NextPage = () => {
   return (
-    <div className="bg-gray h-screen p-10">
+    <div className="h-screen p-10">
       <Head>
         <title>ByteSlash</title>
         <link

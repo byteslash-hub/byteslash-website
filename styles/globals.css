@@ -1,0 +1,13 @@
+* {
+    transition: all 0.5s;
+}
+
+body {
+    --tw-bg-opacity: 1;
+    background-color: rgba(32, 38, 49, var(--tw-bg-opacity));
+    color: white;
+}
+
+.main-image {
+    border-radius: 10px;
+}
