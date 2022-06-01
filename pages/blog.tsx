@@ -15,6 +15,7 @@ import CardComponent from "../components/Card.component";
 import { Post } from "../models/Post.interface";
 import { Tag, tagFilters } from "../models/Tag";
 import Head from "next/head";
+import Header from '../components/Header.component';
 
 const Blog: NextPage = ({
   posts,
@@ -52,6 +53,9 @@ const Blog: NextPage = ({
       <Head>
         <title>ByteSlash | Blog</title>
       </Head>
+      <div className="p-10">
+        <Header />
+      </div>
       <div style={{ paddingTop: "72px", marginBottom: "48px" }}>
         <Typography align="center" color="primary" variant="h1">
           Blog
