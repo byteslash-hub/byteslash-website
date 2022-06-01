@@ -29,9 +29,11 @@ function Header() {
         <h1 className="hover:border-white hover:border-b-2 cursor-pointer text-md">
           Our Motive
         </h1>
-        <h1 className="hover:border-white hover:border-b-2 cursor-pointer text-md">
-          ByteSlash Blog
-        </h1>
+        <a href="/blog">
+          <h1 className="hover:border-white hover:border-b-2 cursor-pointer text-md">
+            ByteSlash Blog
+          </h1>
+        </a>
       </div>
       <div className="hidden sm:inline-flex items-center justify-center gap-10">
         <Link href="https://github.com/byteslash-hub/byteslash-website">
